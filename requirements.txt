@@ -1,0 +1,7 @@
+python-dotenv
+Flask
+flask-smorest
+flask-pymongo
+pymongo
+pandas
+marshmallow
